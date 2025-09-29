@@ -1,0 +1,7 @@
+LOADING = "loading"
+MAIN_MENU = "main_menu"
+INSTRUCTIONS = "instructions"
+WEAPON_SELECT = "weapon_select"
+FIGHT = "fight"
+RESULTS = "results"
+FINAL_RESULTS = "final_results"
