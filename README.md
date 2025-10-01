@@ -4,7 +4,7 @@ Welcome to **Paws, Claws & Furballs**, the cutest twist on the classic Rock-Pape
 Instead of boring hand signs, you’ll be battling with fluffy **furballs**, soft **paws**, and sharp **claws**.  
 Every match is a best of 3 - win, lose, or draw, the cats decide your fate! 🐱
 
-**All graphics and artwork in this game are original creations made by me.✨**
+**Everything you see here, from the game code to the original graphics and artwork, was made by me.✨**  
 
 ![cat_menu](screenshots/cat_menu.png)
 
