@@ -4,7 +4,9 @@ Welcome to **Paws, Claws & Furballs**, the cutest twist on the classic Rock-Pape
 Instead of boring hand signs, you’ll be battling with fluffy **furballs**, soft **paws**, and sharp **claws**.  
 Every match is a best of 3 - win, lose, or draw, the cats decide your fate! 🐱
 
-![cat_menu](cat_menu.png)
+**All graphics and artwork in this game are original creations made by me.✨**
+
+![cat_menu](screenshots/cat_menu.png)
 
 ---
 
@@ -16,18 +18,27 @@ Every match is a best of 3 - win, lose, or draw, the cats decide your fate! 🐱
 4. When ready, choose your weapon:  
    - **Furball = Rock** ✊  
    - **Paw = Paper** ✋  
-   - **Claws = Scissors** ✌️  
+   - **Claws = Scissors**
+   
+![Instructions](screenshots/instructions.png)  
+
+![Choise](screenshots/choose.png)
+
 5. Watch the **animated countdown** (“3…2…1… GO!”) as the cats face off.  
 6. The cards slide in dramatically, and the result is revealed: **YOU WIN**, **YOU LOSE**, or **DRAW**.  
+
+![Fight](screenshots/fight.png)
 
 Each game is **3 rounds**. At the end, you’ll see a **Final Results screen**:  
 -  Win more rounds than the computer: **Victory Cat!**  
 -  Lose more rounds: **Sad Kitty…**  
 -  Equal score: **A Cat-tied Draw!**
 
+![win_board](screenshots/win.png)
+
 Then you can **Play Again** and challenge your feline rival once more!
 
-![choise_menu](choise_menu.png)
+![choise_menu](screenshots/choise_menu.png)
 
 ---
 
@@ -49,3 +60,7 @@ Then you can **Play Again** and challenge your feline rival once more!
 
 ---
 
+Install dependencies with:  
+```bash
+    pip install -r requirements.txt
+```
